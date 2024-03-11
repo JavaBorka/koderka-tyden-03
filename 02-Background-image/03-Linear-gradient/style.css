@@ -13,4 +13,6 @@ html { box-sizing: border-box; }
 /* ------------------------------------ */
 
 
-
+.box {
+	background-image: linear-gradient(to right, red, yellow); /* Je potřeba se podívat co je Odeg*/
+}

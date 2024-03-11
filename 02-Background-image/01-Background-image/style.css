@@ -13,4 +13,14 @@ html { box-sizing: border-box; }
 /* ------------------------------------ */
 
 
+.box {
+	background-image: url(images/vzor.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-size: 100%;
+}
+
+.box {
+	background: 200px center url(images/vzor.png) no-repeat;
+}
 
